@@ -1,4 +1,4 @@
-annee,siret,raison_sociale,type_produit_acquis,montant_total,montant_valorisation_et_don,montant_produits_issus_don,montant_produits_recycles,pourcent_valorisation,pourcent_reemploi_reutilisation,pourcent_reemploi_reutilisation,pourcent_don,pourcent_matieres_recyclees
-2024,13002526500013,DINUM,Mobilier et aménagement d'intérieur,500.9,868.4,97.5,585.5,39.7,42.6,73.5,88.0,72.8
-2024,13002526500013,DINUM,Bâtiments modulaires ou préfabriqués,228.6,988.2,899.9,640.5,5.2,44.5,99.3,97.9,79.3
-2023,13002526500013,DINUM,Mobilier et aménagement d'intérieur,858.5,420.6,40.8,22.0,91.9,83.2,83.4,31.1,57.0
+annee,siret,raison_sociale,type_produit_acquis,montant_total,montant_valorisation_et_don,montant_produits_issus_don,montant_produits_recycles,pourcent_valorisation,pourcent_reemploi_reutilisation,pourcent_don,pourcent_matieres_recyclees
+2024,13002526500013,DINUM,Mobilier et aménagement d'intérieur,500.9,868.4,97.5,585.5,39.7,42.6,73.5,88.0
+2024,13002526500013,DINUM,Bâtiments modulaires ou préfabriqués,228.6,988.2,899.9,640.5,5.2,44.5,99.3,97.9
+2023,13002526500013,DINUM,Mobilier et aménagement d'intérieur,858.5,420.6,40.8,22.0,91.9,83.2,83.4,31.1

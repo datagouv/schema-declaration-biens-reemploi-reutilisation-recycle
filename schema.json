@@ -159,17 +159,6 @@
          }
       },
       {
-         "name": "pourcent_reemploi_reutilisation",
-         "description": "% issu du réemploi ou de la réutilisation par rapport au montant total",
-         "example": 13.1,
-         "type": "number",
-         "constraints": {
-            "required": true,
-            "minimum": 0,
-            "maximum": 100
-         }
-      },
-      {
          "name": "pourcent_don",
          "description": "% issu du don",
          "example": 8.4,
