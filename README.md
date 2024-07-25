@@ -1,6 +1,6 @@
-# Schéma de données sur les 
+# Schéma de données sur les déclarations d'acquisitions de produits issus de la valorisation
 
-
+A venir...
 
 ## Création d'un fichier de données conforme
 
