@@ -1,4 +1,4 @@
-# Schéma de données sur les déclarations d'acquisitions de produits issus de la valorisation
+# Schéma de données sur les déclarations d'acquisitions de produits issus du réemploi, de la réutilisation ou intégrant des matières recyclées
 
 A venir...
 
