@@ -1,4 +1,4 @@
-annee,siret,raison_sociale,type_produit_acquis,montant_total,montant_valorisation_et_don,montant_produits_issus_don,montant_produits_recycles,commentaires
+annee,siret,raison_sociale,type_produit_acquis,montant_total,montant_reemploi_et_recycle,montant_produits_issus_don,montant_produits_recycles,commentaires
 2024,13002526500013,DINUM,Mobilier et aménagement d'intérieur,500.9,868.4,97.5,585.5,
 2024,13002526500013,DINUM,Bâtiments modulaires ou préfabriqués,228.6,988.2,899.9,640.5,"dépense pour le chantier en cours"
 2023,13002526500013,DINUM,Mobilier et aménagement d'intérieur,858.5,420.6,40.8,22.0,
